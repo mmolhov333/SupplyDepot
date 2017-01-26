@@ -10,7 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GitHub rules the seven seas! Also I like cars");
+            Console.WriteLine("GitHub rules the seven seas!");
         }
     }
 }
